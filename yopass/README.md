@@ -8,6 +8,4 @@ The executable file looks like this:
 
 Just using a `strings` function and grep the output by `ctf`, you will get the flag stored in the executable.
 
-<p align="left">
-  <img src="https://github.com/Abdy01/CyberEDU/tree/main/yopass/second.png?raw=true">
-</p>
+![alt text](https://github.com/Abdy01/CyberEDU/blob/yopass/second.jpg?raw=true)
