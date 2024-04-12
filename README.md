@@ -12,4 +12,4 @@ Some of the categories are:
 - Networking
 And much more.
 
-Sometimes they are organize competitions, so be ready to join them at https://cyberedu.ro/
+Sometimes they organize competitions, so be ready to join them at https://cyberedu.ro/
